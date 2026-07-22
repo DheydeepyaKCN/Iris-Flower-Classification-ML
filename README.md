@@ -6,7 +6,7 @@ A Machine Learning web application that predicts the species of an Iris flower b
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-STREAMLIT-LINK.streamlit.app/
+🔗 https://iris-flower-classification-ml-679hrxas9xcrsw4rjs4xy2.streamlit.app/
 
 ---
 
@@ -53,18 +53,6 @@ The project uses the built-in **Iris Dataset** available in Scikit-learn.
 
 ---
 
-## 📸 Application Preview
-
-### Home Page
-
-> *(Add screenshot here)*
-
-### Prediction Result
-
-> *(Add screenshot here)*
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -86,7 +74,7 @@ Iris-Flower-Classification-ML/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Iris-Flower-Classification-ML.git
+git clone https://github.com/DheydeepyaKCN/Iris-Flower-Classification-ML
 ```
 
 Navigate to the project
@@ -101,16 +89,20 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Run the application
+Run the following command in the project directory:
 
 ```bash
 streamlit run app.py
+```
+
+If the above command doesn't work, use:
+
+```bash
+py -m streamlit run app.py
 ```
 
 ---
 
 ## ❤️ Author
 
-**Priya**
-
-Developed as part of a Machine Learning Internship project.
+**K.C.N.DHEYDEEPYA**
