@@ -64,7 +64,6 @@ Iris-Flower-Classification-ML/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── screenshots/
 ```
 
 ---
